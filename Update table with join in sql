@@ -1,5 +1,0 @@
-update ARTH
-set ARTH.CurrencyCode ='EURO'
-from table1 ARTH
-inner join table2 ARTL on
-ARTH.[No] = ARTL.header_key
